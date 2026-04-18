@@ -135,23 +135,6 @@ curl -X POST http://localhost:8000/api/explain \
   }'
 ```
 
-## LinkedIn Post Template
-
-```
-🚀 Just built an AI SQL Query Optimiser!
-
-Using GPT-4, you can now:
-✅ Drop any SQL query  
-✅ Get optimization suggestions
-✅ See performance score
-✅ Get plain-English explanations
-
-Tech: React + FastAPI + OpenAI
-
-GitHub: [your-link]
-
-#FullStack #AI #WebDevelopment #SQL #OpenAI
-```
 
 ## Need Help?
 
@@ -161,7 +144,3 @@ GitHub: [your-link]
 4. Review OpenAI docs: https://platform.openai.com/docs
 
 ---
-
-**You're all set! 🎉 Start building your portfolio today!**
-
-Questions? Everything is documented in the README files.
